@@ -12,7 +12,7 @@ JAVA data types:
 6. char   = 2 byte
 
 // for true or false
-7. boolean= 1 bit
+7. boolean= 1 byte
 
 // for decimal or floating representation
 8. double = 8 byte   
