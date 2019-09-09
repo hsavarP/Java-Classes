@@ -1,0 +1,7 @@
+9th September
+
+1. About Java, what is it, compiler or interpreter,
+2. what is a compiler or interpreter.
+3. What is special about java.
+4. Naming convention in java.
+5. Data types of java and their range. 

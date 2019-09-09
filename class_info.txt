@@ -1,0 +1,34 @@
+JAVA data types:
+
+// integer storing
+1. int    = 4 byte  (-2^32  -  2^32-1)
+2. long   = 8 byte  (-2^64  -  2^64-1)
+3. byte	  = 1 byte  (-2^8  -  2^8-1) -128 to - 127
+4. short  = 2 byte  (-2^16  -  2^16-1)
+
+
+// for texts, sentences	
+5. String
+6. char   = 2 byte
+
+// for true or false
+7. boolean= 1 bit
+
+// for decimal or floating representation
+8. double = 8 byte   
+9. float  = 4 byte
+
+8. BigInteger
+9. BigDecimal
+
+
+1 bit = 1/0
+4 bits = 1 nibble
+8 bits = 1 byte (B)
+1024 bytes = 1kB
+1024 kB = 1mB
+1024 mB = 1gB
+
+System.out.println() - Prints the contents of bracket and shifts to the new line
+System.out.print() - Prints the contents of bracket and does not shift to the new line
+ 
