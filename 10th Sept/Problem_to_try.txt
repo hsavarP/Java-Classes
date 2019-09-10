@@ -1,0 +1,17 @@
+1. WAP to print if a number is "Buzz Number" or not.
+A number is Buzz number if it if divisible by 7.
+Ex. 49 is Buzz number whereas 8 is Not a Buzz number.
+Take a number input of your own choice and print if it is a Buzz Number or not.
+
+2. WAP To Classify a number as "Buzz Number" or "Even Number" or "Odd Number".
+For ex. lets suppose the n=5, then you should print 
+	5 is Odd Number
+
+	for n=49, then you should print 
+	49 is Buzz number
+	49 is Odd Number
+
+	another example , n=20
+	20 is Even number
+
+Take a number of your own choice and print the result in the format mentioned above.
