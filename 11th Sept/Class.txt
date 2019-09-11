@@ -1,0 +1,38 @@
+WAP to Print whether a number is even or odd only if it is a Buzz number else print it is not a Buzz number.
+Buzz number is a number which is divisible by 7
+Ex. n=49 
+output -> 49 is odd number
+
+n=28
+output -> 28 is even number
+
+n=10
+output -> 10 is not a Buzz number 
+ 
+Try using Nested If-else
+
+
+1. If-else problems
+2. Loops and its problems
+3. Patterns
+3.2 . User input
+4. Strings
+5. Arrays(1-D, 2-D , N-D)
+
+(optional, if time permits)
+7. Basic Algorithms (Searching and Sorting)
+8.  Data Structures (Stack, Queue)
+9. OOP 
+10. Linked List
+
+
+
+
+
+
+
+
+
+
+
+

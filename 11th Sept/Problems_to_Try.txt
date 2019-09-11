@@ -1,0 +1,14 @@
+1. A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.
+Take as input salary and year of service and print the net bonus amount.
+Net Amt = Salary + 5%ofSalary ,  if he is eligible for bonus.
+
+Ex. Salary = 100 , YearsOfExperience = 6
+Output ->  Net Amount is 105
+
+2.Calculate Library fine . Take days as input, which means that a student submitted the book that many days after.
+if days < = 5, fine = no.of day * 1
+if days >  5 and days < =10 , fine = fine for 5 days + extra days*1.5
+if days > 10 and days < = 20 , fine = fine for 10 days + extra days* 2;
+if days > 20 , fine = fine for 20 days + extra days*5;
+
+Take days as input and print fine that should be charged.
