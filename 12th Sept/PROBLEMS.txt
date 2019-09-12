@@ -1,0 +1,20 @@
+1. Take a character as input and print whether it is vowel or consonant. The character may be in upper case or lower case. Handle cases for both.
+
+2.Take year as input and print whether it is leap year or not.
+
+3. Write Java program to take input age. Then the program will show if the person is eligible to vote. A person who is eligible to vote must be older than or equal to 18 years old.
+
+4.Take values of length and breadth of a rectangle and check if it is square or not.
+
+5.Take as input 4 numbers and print the second highest number.
+
+6.A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+Take following input
+Number of classes held
+Number of classes attended.
+And print
+percentage of class attended
+Is student is allowed to sit in exam or not.
+
+7. Take an input integer and tell which month it is. 
+1-> Jan , 2-> Feb , 3-> March , etc.. (Use Switch case)

@@ -1,0 +1,3 @@
+https://www.cs.mcgill.ca/~cs202/2011-09/lectures/joerg/04-conditionals.pdf
+
+Download this pdf and u can take this as reference , it has very good examples.
