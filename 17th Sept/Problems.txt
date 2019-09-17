@@ -1,0 +1,38 @@
+1. Print the series till 10 terms
+   1 , 1+2 , 1+2+3 , 1+2+3+4 , ....[i.e. 1,3,6,10,...]
+
+2. Print the series till 10 terms
+   1 , 1*2 , 1*2*3 , 1*2*3*4 , ....[i.e. 1,2,6,24,...]
+
+3. Print the series till 10 terms
+   1 , (1+2) , (1+2)*3 , ((1+2)*3)+4 , (((1+2)*3)+4)*5 ....[i.e. 1,3,9,13,...]
+
+4. Print first 10 fibonacci numbers.
+   Fibonacci sequence => 0 , 1 , (0+1)=>1 , (1+1)=>2 , (2+1)=>3 , (3+2)=5 ,...
+   i.e, the sum of previous 2 numbers, fib(n) = fib(n-1)+fib(n-2) , where fib(0)=0, fib(1)=1.
+
+5. Write a program to calculate the sum of following series . 
+   1 + 1/2 + 1/3 + 1/4 + 1/5 +…………1/20	
+
+6. WAP to print the GCD of 3 numbers. GCD stands for greatest common divisor.
+
+7. WAP to print all composite numbers from 1 to 100.
+
+8. WAP to print all Perfect numbers from 1 to 100. A perfect number is a number whose sum of    factors is the number itself	. Ex- 6 has 1,2,3 as factors also 1+2+3 = 6 , so 6 is perfect    number. Ex- 8 has 1,2,4 as its factors but 1+2+4 is not 8 , so 8 is not perfect number.
+
+9. Print all Buzz numbers from 1 to 100. Buzz number is a number which is divisible by 7.
+
+10. Print all numbers between 1 to 100 which are divisible by 5 and not by 15. 
+
+11. Print all number between 1 to 100 which are divisible by 2 and 3 and 5.
+
+12. Take 2 number as input and print a^b.(Using loop concept)Ex= a=2, b=5 , 2^5 = 32
+
+13. Print the following series - > (till 10 terms)
+    1 => 1
+    1+2 => 3
+    1*2*3 => 6
+    1+2+3+4 => 10
+    1*2*3*4*5 => 120	
+
+14. Print all prime factors of a number. Ex-30 -> its prime factors are 2,3,5 Ex=12 -> 2,3 
