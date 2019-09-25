@@ -1,0 +1,73 @@
+https://www.includehelp.com/java-programs/java-programs-strings-solved-examples.aspx
+-> Read the notes from this link about String functions
+
+1. Take a string and print each word on a separate line.
+String = "hey there wassup"
+Output->
+hey
+there
+wassup
+
+2. Take a string and print all characters at even positions
+String = "hello"
+Output-> e,l
+
+3.Take a string and print characters at prime positions.
+String = "abcdefghij"
+Output->b,c,e,g
+
+4. Take a sentence as input and print the longest word in that sentence
+String = "these are not aesy problems"
+Output->problems
+
+5.Take a string and print a word if( length of the word = no of words in that sentence)
+String = "a dac abc"
+Output-> dac abc
+String = "helll lot fun it was"
+Output-> helll
+
+6. Take a name as input and print the short form of it.
+String = "Pravash Ranjan Nayak"
+Output-> P.R.Nayak
+String = "abc cad hjkf"
+Output-> a.c.hjkf
+String = "abcde"
+Output-> abcde
+
+7.Write a program to reverse a word
+String = "abcde"
+Output-> edcba
+
+8. WAP to take a sentence and reverse the sentence
+String = "how are you"
+Output-> you are how
+
+9. WAP to print the words of sentence , with each word reversed
+String = "how are you"
+Output-> woh era uoy
+
+10. WAP to print reversed words in reverse order
+String = "how are you"
+Output-> uoy era woh
+
+11.Take a string and remove vowels from it.
+String = "abhi"
+Output-> bh
+
+12. Take a string and count the ratio of r = (no.of vowels)/(no.consonants)
+String = "abc"
+Output-> 0.33333
+String ="abc eef ghii"
+Output->
+0.3333333
+0.6666667
+0.5
+
+13. Take a sentence and print those words whose r(defined in previous question) is greater than .25
+String = "abc"
+Output-> abc
+String ="abc eef ghggi"
+Output->
+abc
+eef
+
